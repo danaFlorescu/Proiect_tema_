@@ -1,0 +1,16 @@
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\bin\Debug\net5.0\Tema proiect.exe
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\bin\Debug\net5.0\Tema proiect.deps.json
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\bin\Debug\net5.0\Tema proiect.runtimeconfig.json
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\bin\Debug\net5.0\Tema proiect.runtimeconfig.dev.json
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\bin\Debug\net5.0\Tema proiect.dll
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\bin\Debug\net5.0\ref\Tema proiect.dll
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\bin\Debug\net5.0\Tema proiect.pdb
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\obj\Debug\net5.0\Tema proiect.csproj.AssemblyReference.cache
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\obj\Debug\net5.0\Tema proiect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\obj\Debug\net5.0\Tema proiect.AssemblyInfoInputs.cache
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\obj\Debug\net5.0\Tema proiect.AssemblyInfo.cs
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\obj\Debug\net5.0\Tema proiect.csproj.CoreCompileInputs.cache
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\obj\Debug\net5.0\Tema proiect.dll
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\obj\Debug\net5.0\ref\Tema proiect.dll
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\obj\Debug\net5.0\Tema proiect.pdb
+C:\Users\Dana\Desktop\Proiecte c#\Tema proiect\Tema proiect\obj\Debug\net5.0\Tema proiect.genruntimeconfig.cache
